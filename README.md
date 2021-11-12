@@ -13,6 +13,8 @@ SayMyName is a iOS app, in which we have card stacks placed on each other and ea
 - If Xcode asks for the app to trust then press Yes I trust this app button
 
 ## Features
+- This shows pictures with animals on it and you need to guess or know that animal. 
+## Examples
 - Let see a couple of pictures how a card looks like. 
 
 <div align="center">
