@@ -8,9 +8,7 @@ SayMyName is a iOS app, in which we have card stacks placed on each other and ea
 - Swift 5
 
 ## Installation
-- Download the project from gitHub
-- Open the app in Xcode
-- If Xcode asks for the app to trust then press Yes I trust this app button
+- Clone or download this repository and run the application
 
 ## Features
 - This shows pictures with animals on it and you need to guess or know that animal. 
